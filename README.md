@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="ReadMe/3.png" alt="Developer="max-width: 100%; height: auto;">
+   <img src="ReadMe/1.png" alt="Developer="max-width: 100%; height: auto;">
 </p>
 
 # DIGITAL CALCULATOR 🧮💻
@@ -59,7 +59,7 @@ This section shows what the calculator looks like when it's running. You'll see 
 
 ## <a id = "proj_developer"> 🔢 Project Developer </a> 
 <p align="center">
-   <img src="ReadMe/4.png" alt="Developer="max-width: 100%; height: auto;">
+   <img src="ReadMe/2.png" alt="Developer="max-width: 100%; height: auto;">
 </p>
 
 ### 🌟Meet the Developers🌟
