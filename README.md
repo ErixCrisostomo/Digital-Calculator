@@ -49,20 +49,30 @@ This application provides a basic digital calculator interface that replicates s
 
 ## <a id = "proj_output"> 🔢 Sample Output </a> 
 This section shows what the calculator looks like when it's running. You'll see the form with buttons for numbers, arithmetic operations, and a display area where the result appears. It gives you a clear idea of how the app works and what users will see when they use it.
-<p align="center">
-   <img src="ReadMe/5.png" alt="Output="max-width: 100%; height: auto;">
-</p>
+
+<table>
+  <tr>
+    <td align="center"><img src="Outputs/1 (1).png" alt="Output 1" width="250"></td>
+    <td align="center"><img src="Outputs/1 (2).png" alt="Output 2" width="250"></td>
+    <td align="center"><img src="Outputs/2 (1).png" alt="Output 3" width="250"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Outputs/3.png" alt="Output 4" width="250"></td>
+    <td align="center"><img src="Outputs/4.png" alt="Output 5" width="250"></td>
+    <td align="center"><img src="Outputs/5.png" alt="Output 6" width="250"></td>
+  </tr>
+</table>
 
 ---
 
 > *The image above shows the functional layout of the calculator, including the numeric keypad, operation buttons, and result display — all built with Windows Forms in C#.*
 
 ## <a id = "proj_developer"> 🔢 Project Developer </a> 
+### 🌟Meet the Developers🌟
 <p align="center">
-   <img src="ReadMe/2.png" alt="Developer="max-width: 100%; height: auto;">
+   <img src="ReadMe/2.png" alt="Output="max-width: 100%; height: auto;">
 </p>
 
-### 🌟Meet the Developers🌟
 ---
 
 The **Digital Calculator** project was developed by second-year Computer Science students from Batangas State University - The National Engineering University (BatStateU-TNEU), Alangilan Campus,  of class **CS-2201**, as part of the **CS222 - Advanced Object-Oriented Programming** course. The goal was to apply object-oriented programming principles and file handling techniques in creating a Digital Diary application, transforming theoretical concepts into a practical, functional software solution.
