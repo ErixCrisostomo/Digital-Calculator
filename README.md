@@ -52,7 +52,7 @@ This section shows what the calculator looks like when it's running. You'll see 
 
 <table>
   <tr>
-    <td align="center"><img src="Outputs/1 (1).png" alt="Output 1" width="250"></td>
+    <td align="center"><img src="Outputs/7.png" alt="Output 1" width="250"></td>
     <td align="center"><img src="Outputs/1 (2).png" alt="Output 2" width="250"></td>
     <td align="center"><img src="Outputs/2 (1).png" alt="Output 3" width="250"></td>
   </tr>
