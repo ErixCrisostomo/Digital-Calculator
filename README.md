@@ -52,7 +52,9 @@ This section shows what the calculator looks like when it's running. You'll see 
 <p align="center">
    <img src="ReadMe/5.png" alt="Output="max-width: 100%; height: auto;">
 </p>
+
 ---
+
 > *The image above shows the functional layout of the calculator, including the numeric keypad, operation buttons, and result display — all built with Windows Forms in C#.*
 
 ## <a id = "proj_developer"> 🔢 Project Developer </a> 
